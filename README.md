@@ -21,9 +21,7 @@ The hold slide is intended to be a simple common opening slide for AFS academic 
 
 ## 2. Registration Reminder
 
-CFP Board confirmed the AFS registration code:
-
-**AFSCONNECT26**
+CFP Board confirmed the AFS registration code: **Code is on my email**
 
 The online registration portal closes on **September 18**. Committee members and AFS participants who plan to attend should complete registration before the portal closes. To avoid last-minute issues, registration by **September 17** is recommended if possible.
 
